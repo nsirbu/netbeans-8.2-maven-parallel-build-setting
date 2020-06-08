@@ -1,0 +1,1 @@
+# netbeans-8.2-maven-parallel-build-setting

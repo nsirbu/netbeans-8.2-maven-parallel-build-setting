@@ -1,1 +1,1 @@
-# netbeans-8.2-maven-parallel-build-setting
+This utility appends the maven parallel build option `-T 1C` to NetBeans 8.2 configuration file.
